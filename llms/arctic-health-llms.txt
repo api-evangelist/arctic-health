@@ -1,0 +1,15 @@
+# Arctic Health
+
+> Arctic Health handles provider credentialing and payer enrollment end to end, from CAQH management and primary source verification to payer applications and follow-up, for medical practices, telehealth groups, RCM companies, and CVOs across all 50 states.
+
+## Key Pages
+
+- [Payer Enrollment](https://arctic.health/payers): Enrollment guides for every major commercial payer
+- [Credentialing by State](https://arctic.health/credentialing): State-by-state credentialing requirements
+- [Specialties](https://arctic.health/specialties): Credentialing guides by provider specialty
+- [Blog](https://arctic.health/blog): Credentialing and payer enrollment guides
+
+## Articles
+
+- [Neurology Credentialing in New York: A Complete Guide for Practice Owners (2026)](https://arctic.health/blog/neurology-credentialing-new-york-guide): A complete guide to neurology credentialing in New York, covering payer rules, Medicaid OPRA enrollment, IDTF testing, and stroke center requirements.
+- [The DME Supplier's Guide to Commercial Insurance Enrollment](https://arctic.health/blog/dme-supplier-commercial-insurance-enrollment-guide): There is no single application, centralized portal, nor standard timeline across commercial payers. Knowing what to expect can save months of delays.

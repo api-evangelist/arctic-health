@@ -1,7 +1,30 @@
 aid: arctic-health
 name: Arctic Health
-description: Arctic Health is a company surfaced as a portfolio company of y-combinator and added to the
-  API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  Arctic Health provides AI-native provider credentialing and payer enrollment
+  for healthcare organizations, handling the workflow end to end — from CAQH
+  management and primary source verification to payer applications, contracting,
+  and ongoing follow-up. The company collects and validates organization and
+  provider data to each state and payer's requirements, submits on the
+  organization's behalf across hundreds of payer portals, and monitors status
+  and compliance on an ongoing basis. It serves medical practices, telehealth
+  groups, RCM companies, and CVOs across all 50 states plus DC, offering both
+  standard and white-label ("For Scale") solutions with AI-powered document
+  extraction and error detection. Arctic Health is a Y Combinator (Spring 2026)
+  company based in New York City, also backed by Menlo Ventures and Fortitude
+  Ventures.
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://arctic.health/og-image.png
 url: https://raw.githubusercontent.com/api-evangelist/arctic-health/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -11,12 +34,39 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
 tags:
 - Company
+- Healthcare
+- Credentialing
+- Provider Enrollment
+- Payer Enrollment
+- Health Insurance
+- Revenue Cycle Management
+- AI
 apis: []
+common:
+- type: Website
+  url: https://arctic.health
+- type: Blog
+  url: https://arctic.health/blog
+- type: TermsOfService
+  url: https://arctic.health/terms
+- type: PrivacyPolicy
+  url: https://arctic.health/privacy
+- type: LLMsTxt
+  url: llms/arctic-health-llms.txt
+- type: DomainSecurity
+  url: security/arctic-health-domain-security.yml
+- type: LinkedIn
+  url: https://www.linkedin.com/company/arctic-health/
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
