@@ -13,6 +13,17 @@ description: >-
   extraction and error detection. Arctic Health is a Y Combinator (Spring 2026)
   company based in New York City, also backed by Menlo Ventures and Fortitude
   Ventures.
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
